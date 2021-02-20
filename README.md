@@ -4,10 +4,10 @@
 **Table of Contents**
 
 - [What are Arrays?](#what-are-arrays)
-        * [Fixed-size Arrays](#fixed-size-arrays)
-          + [Statically Allocated Arrays](#statically-allocated-arrays)
-          + [Dynamically Allocated Arrays](#dynamically-allocated-arrays)
-        * [Dynamic Arrays](#dynamic-arrays)
+	- [Fixed-size Arrays](#fixed-size-arrays)
+		- [Statically Allocated Arrays](#statically-allocated-arrays)
+		- [Dynamically Allocated Arrays](#dynamically-allocated-arrays)
+	- [Dynamic Arrays](#dynamic-arrays)
 - [What are some advantages of Arrays?](#what-are-some-advantages-of-arrays)
 - [Language Specifics](#language-specifics)
     + [Python](#python)
