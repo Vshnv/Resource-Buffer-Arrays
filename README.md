@@ -75,7 +75,7 @@ Now, lets go into more details specific to three common languages.
  - First of all, you do not get arrays straight out of the box. To use them you need to import the array module.
  - Secondly, these are dynamic arrays.
  - Even so these arrays are limited to only numeric types.
- - There are ofcourse external array implementations that provide more features such as arrays from numpy
+ - There are of course external array implementations that provide more features such as arrays from numpy
 
 #### Initializing arrays
 ```python
@@ -117,7 +117,7 @@ arr_example = arr.array('i',[1,2,3,4,5]) # Arrays here are limited to the data t
 
 ### C++
  - C++ supports both statically-allocated and dynamically allocated arrays and shows clear distinction between them.
- - Statically allocated arrays reside on the stack while dynamicaly allocated arrays reside in the heap [\[What are the Stack and Heap memory segments?\]](https://www.learncpp.com/cpp-tutorial/the-stack-and-the-heap/)
+ - Statically allocated arrays reside on the stack while dynamically allocated arrays reside in the heap [\[What are the Stack and Heap memory segments?\]](https://www.learncpp.com/cpp-tutorial/the-stack-and-the-heap/)
  - Statically allocated arrays are slightly faster than Dynamically allocated arrays, 
  - As they reside on the stack, Statically allocated arrays must not be too large as it would result in a stack overflow.
  - Some compilers also provide a shorthand for dynamically allocated arrays to be declared in the same way as statically allocated array. This is not applicable to newer implementations and is generally considered bad practice.
@@ -184,7 +184,7 @@ int main()
 
 ### Java
  - Arrays in Java are generally allocated on the heap and therefore can be categorized under dynamically allocated arrays.
- - Altho in some cases the Just-In-Time (JIT) compiler optimizes certain array allocations onto the stack by [Escape Analysis](https://docs.oracle.com/javase/8/docs/technotes/guides/vm/performance-enhancements-7.html#escapeAnalysis), but this mostly should not be relied upon.
+ - Although in some cases the Just-In-Time (JIT) compiler optimizes certain array allocations onto the stack by [Escape Analysis](https://docs.oracle.com/javase/8/docs/technotes/guides/vm/performance-enhancements-7.html#escapeAnalysis), but this mostly should not be relied upon.
 
 #### Initializing arrays
 ```java
