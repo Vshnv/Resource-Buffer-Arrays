@@ -25,7 +25,7 @@
     + [Java](#java)
       - [Initializing arrays](#initializing-arrays-2)
       - [Manipulating values in an array](#manipulating-values-in-an-array-2)
-      - [Is Javas Array safer than C++ Arrays?](#is-javas-array-safer-than-c---arrays)
+      - [Is Java's Array safer than C++ Arrays?](#is-javas-array-safer-than-c---arrays)
       - [More](#more-2)
       - [Videos](#videos-1)
 
@@ -233,8 +233,8 @@ public class Main {
 ```
 - Reffer to [this](https://www.w3schools.com/java/java_arrays.asp) for further info
 
-#### Is Javas Array safer than C++ Arrays?
-- Yes, These avoid undefined behaviour by throwing a runtime exception when program attempts to access indices outside the array's bounds, i.e, [ArrayIndexOutOfBoundsException](https://docs.oracle.com/javase/8/docs/api/java/lang/ArrayIndexOutOfBoundsException.html)
+#### Is Java's Array safer than C++ Arrays?
+- Yes, these avoid undefined behaviour by throwing a runtime exception when program attempts to access indices outside the array's bounds, i.e, [ArrayIndexOutOfBoundsException](https://docs.oracle.com/javase/8/docs/api/java/lang/ArrayIndexOutOfBoundsException.html)
 
 #### More
  - [Oracle Docs](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html)
