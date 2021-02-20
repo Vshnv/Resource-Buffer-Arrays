@@ -3,7 +3,33 @@
 
 **Table of Contents**
 
-[TOC]
+- [What are Arrays?](#what-are-arrays)
+        * [Fixed-size Arrays](#fixed-size-arrays)
+          + [Statically Allocated Arrays](#statically-allocated-arrays)
+          + [Dynamically Allocated Arrays](#dynamically-allocated-arrays)
+        * [Dynamic Arrays](#dynamic-arrays)
+- [What are some advantages of Arrays?](#what-are-some-advantages-of-arrays)
+- [Language Specifics](#language-specifics)
+    + [Python](#python)
+      - [Initializing arrays](#initializing-arrays)
+      - [Manipulating values in an array](#manipulating-values-in-an-array)
+      - [Difference from Lists](#difference-from-lists)
+      - [More](#more)
+    + [C++](#c--)
+      - [Initializing arrays](#initializing-arrays-1)
+      - [Manipulating values in an array](#manipulating-values-in-an-array-1)
+      - [Array Library](#array-library)
+      - [Caution](#caution)
+      - [More](#more-1)
+      - [Videos](#videos)
+    + [Java](#java)
+      - [Initializing arrays](#initializing-arrays-2)
+      - [Manipulating values in an array](#manipulating-values-in-an-array-2)
+      - [Is Javas Array safer than C++ Arrays?](#is-javas-array-safer-than-c---arrays)
+      - [More](#more-2)
+      - [Videos](#videos-1)
+
+
 
 ## What are Arrays?
 - An **array** is a collection of data items of the **same data type**.
