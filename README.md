@@ -151,8 +151,10 @@ int main()
  - [Microsoft C++ docs - Array Allocations](https://docs.microsoft.com/en-us/cpp/cpp/arrays-cpp?view=msvc-160)
 
 #### Videos
-- [TheCherno - Arrays](https://www.youtube.com/watch?v=ENDaJi08jCU) [TheCherno - 2D Arrays](https://www.youtube.com/watch?v=gNgUMA_Ur0U) [TheCherno - std::array](https://www.youtube.com/watch?v=Hw42GkHPyvk)
-- 
+- [TheCherno - Arrays](https://www.youtube.com/watch?v=ENDaJi08jCU) 
+- [TheCherno - 2D Arrays](https://www.youtube.com/watch?v=gNgUMA_Ur0U) 
+- [TheCherno - std::array](https://www.youtube.com/watch?v=Hw42GkHPyvk)
+
 
 ### Java
  - Arrays in Java are generally allocated on the heap and therefore can be categorized under dynamically allocated arrays.
@@ -213,3 +215,8 @@ public class Main {
  - [Programiz](https://www.programiz.com/java-programming/arrays)
  - [In-depth Tutorial on Arrays and Supporting functions](http://tutorials.jenkov.com/java/arrays.html)
  - [fyr, Array - JVM Bytecode Instructions](https://cs.nyu.edu/courses/fall00/V22.0201-001/jvm3.html)
+
+#### Videos
+ - [Arrays - Array Util Functions](https://www.youtube.com/watch?v=GQWbUdb4d58)
+ - [Intro to Arrays](https://www.youtube.com/watch?v=o2ARur9hs9M)
+ - [2D Arrays](https://www.youtube.com/watch?v=uaUddnxeK5M)
