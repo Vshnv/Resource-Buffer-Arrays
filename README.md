@@ -11,6 +11,7 @@
 - Elements of an array are stored in** contiguous memory locations**. 
 - They are **zero-indexed**
 - Many data structures are built on top of arrays.
+
 ![Array Depiction](https://i.imgur.com/ufbgxzY.png)
 
 
