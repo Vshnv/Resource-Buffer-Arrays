@@ -25,7 +25,7 @@
     + [Java](#java)
       - [Initializing arrays](#initializing-arrays-2)
       - [Manipulating values in an array](#manipulating-values-in-an-array-2)
-      - [Is Java's Array safer than C++ Arrays?](#is-javas-array-safer-than-c---arrays)
+      - [Is Java's Array safer than C++ Arrays?](#is-javas-array-safer-than-c-arrays)
       - [More](#more-2)
       - [Videos](#videos-1)
 
