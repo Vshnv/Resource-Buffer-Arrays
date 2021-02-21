@@ -237,8 +237,8 @@ public class Main {
 - Yes, these avoid undefined behaviour by throwing a runtime exception when program attempts to access indices outside the array's bounds, i.e, [ArrayIndexOutOfBoundsException](https://docs.oracle.com/javase/8/docs/api/java/lang/ArrayIndexOutOfBoundsException.html)
 
 #### More
- - [Oracle Docs](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html)
- - [Programiz](https://www.programiz.com/java-programming/arrays)
+ - [Oracle Docs - Array](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html)
+ - [Programiz - Array](https://www.programiz.com/java-programming/arrays)
  - [In-depth Tutorial on Arrays and Supporting functions](http://tutorials.jenkov.com/java/arrays.html)
  - [fyr, Array - JVM Bytecode Instructions](https://cs.nyu.edu/courses/fall00/V22.0201-001/jvm3.html)
 
