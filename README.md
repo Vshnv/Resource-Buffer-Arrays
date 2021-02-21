@@ -115,6 +115,11 @@ arr_example = arr.array('i',[1,2,3,4,5]) # Arrays here are limited to the data t
  - [NumPy Arrays](https://cs231n.github.io/python-numpy-tutorial/#arrays)
  - [Difference between Arrays and Lists in Python](https://www.pythoncentral.io/the-difference-between-a-list-and-an-array/)
 
+#### Videos
+ - [Operations on Numerical Array with array module](https://www.youtube.com/watch?v=M3dLn6F7NuY)
+ - [Telusko - Array Module and Numpy](https://www.youtube.com/watch?v=H58aj9TniFA)
+ - [Python lists vs arrays](https://www.youtube.com/watch?v=JtW_xGNDEJ8)
+
 ### C++
  - C++ supports both statically-allocated and dynamically allocated arrays and shows clear distinction between them.
  - Statically allocated arrays reside on the stack while dynamically allocated arrays reside in the heap [\[What are the Stack and Heap memory segments?\]](https://www.learncpp.com/cpp-tutorial/the-stack-and-the-heap/)
