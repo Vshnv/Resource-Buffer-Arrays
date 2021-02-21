@@ -1,4 +1,4 @@
-<h1> Arrays: Resources </h1>
+# Arrays: Resources
 
 
 **Table of Contents**
