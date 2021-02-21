@@ -58,7 +58,7 @@
 
 ## What are some advantages of Arrays?
 - **Constant Random Access Time**
-	- Pointer to a specific index of an array can be calculated easily with the type (size stored by the type), the index and the starting pointer
+	- The compiler can infer the pointer to a specific index of an array with the type (i.e, size of data of the type), the index and the starting pointer
 	- Therefore random access on an array takes constant time since there is no search involved.
 - **Cache Friendliness**
 	- Since array elements are stored in contiguous memory locations, they can easily be accessed from CPU to cache and lead to higher [cache hits](https://en.wikipedia.org/wiki/Cache_(computing))
