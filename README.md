@@ -62,7 +62,7 @@
 	- Therefore random access on an array takes constant time since there is no search involved.
 - **Cache Friendliness**
 	- Since array elements are stored in contiguous memory locations, they can easily be accessed from CPU to cache and lead to higher [cache hits](https://en.wikipedia.org/wiki/Cache_(computing))
-	- Therefore iteration over arrays is much faster than over structures like linked lists
+	- Therefore iteration over arrays are much faster than over structures like linked lists
 - **Multi Dimensional Arrays**
 	- The type of data stored in an array can also be an array
 	- This allows formation of complex types that could represent boards, matrixes and much more
