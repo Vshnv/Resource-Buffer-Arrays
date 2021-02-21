@@ -13,21 +13,12 @@
 |  7.| ★★★★☆ | [Balanced Rating Changes](https://codeforces.com/problemset/problem/1237/A)  |Implementation &  Math| <ul> <li> [ ] </li> </ul> |
 
 </tr>
-<p align="right">
-  <img src="https://media.giphy.com/media/3o7btZ1Gm7ZL25pLMs/giphy.gif" alt="animated" />
-</p> 
-<tb align="right">
+
 <h1 align = "center">LeaderBoard</h1>
 
 | Rank |   Name   | Score|
 |------| -------- | ---- |
-|  1.  |  Sakalya Mitra | 70     |
-|  2.  |  Aalok Tanwar |  50    |
-|  3.  |   Alok Khansali |  50    |
-|  4.  |  Aditya Vishwakarma | 30     |
-|  5.  | Adrije Guha   |  30    |
-|  6.  | Hardik Sharma |   20   |
-|  7.  | Mansi Priya |     20 |
+
 
 </tr>
 <table>
