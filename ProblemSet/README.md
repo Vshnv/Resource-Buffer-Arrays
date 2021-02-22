@@ -4,7 +4,7 @@
 <tr align="left">  
 
 | S.NO | ☆   | Problem Link | Tag | Finished    |
-|--------| --- | ----------------------------- |  ------------------------- |
+|--------| --- | ----------------------------- | ------ |  ------------------------- |
 | 1. | ★☆☆☆☆ | [Reverse an Array](https://www.codechef.com/problems/DBIT01)                                         | A simple one to start with | <ul> <li> [ ] </li> </ul> |
 |  2.| ★★☆☆☆ | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)    | Iteration and Selection | <ul> <li> [ ] </li> </ul> |
 |  3.| ★★☆☆☆ | [Contiguous sub-array maximum](https://www.codechef.com/problems/ARRCONTG)                           | Brute Force | <ul> <li> [ ] </li> </ul> |
